@@ -1,2 +1,4 @@
 # Java-Fullstack-Challenges
-Java Fullstack challenges all
+
+Simple Employe CRUD Operations
+Java, Hibernate, Postgres, RESTful API
